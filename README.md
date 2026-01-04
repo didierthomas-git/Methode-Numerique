@@ -16,6 +16,7 @@ Les énoncés sont de la main de Simon Postec https://scholar.google.com/citatio
 ## TP2
 - [TP2-Methode de la puissance](TP2/)
 ### Sujet
--implémentation de la méthode de la puissance pour déterminer la plus grande valeur popre
+-méthode de la puissance
 ### Fichier
 - notebook Python
+- [Factorisation de Matrices](TP2_MethodePuissance.ipynb)
