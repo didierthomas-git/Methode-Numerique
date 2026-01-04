@@ -3,7 +3,7 @@ Travaux Pratiques de méthodes numériques réalisés lors du S5 (sept-dec 2025)
 Les énoncés sont de la main de Simon Postec https://scholar.google.com/citations?user=c7rZihgAAAAJ&hl=fr \
 
 ## TP1
-- [Factorisation de Matrices](TP1_Factorisation_De_Matrices/)
+- [Factorisation de Matrices](TP1_Factorisation_De_Matrices.ipynb)
 ### Sujet
 
 ### Fichier
