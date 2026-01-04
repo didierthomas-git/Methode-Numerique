@@ -5,7 +5,10 @@ Les énoncés sont de la main de Simon Postec https://scholar.google.com/citatio
 ## TP1
 - [Factorisation de Matrices](TP1_Factorisation_De_Matrices.ipynb)
 ### Sujet
-
+-algorithme de Gauss
+-décomposition LU
+-décomposition de Cholesky
+-orthonormalisation de Gram-Schmidt
 ### Fichier
 - notebook Python
   
